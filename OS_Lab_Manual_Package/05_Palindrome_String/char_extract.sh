@@ -1,3 +1,0 @@
-#!/bin/bash
-read -p "Enter a string: " str
-echo "${str:1:1}"
