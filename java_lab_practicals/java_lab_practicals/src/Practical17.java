@@ -1,3 +1,6 @@
+AIM- Write a Java program to demonstrate Custom Exceptions
+
+
 class InvalidAgeException extends Exception {
     InvalidAgeException(String message) {
         super(message);
