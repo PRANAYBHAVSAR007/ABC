@@ -1,3 +1,9 @@
+AIM- Write a Java program to perform 
+arithmetic, relational, and logical 
+operations, bitwise and other 
+operators
+
+
 class Practical2 {
     public static void main(String args[]) {
         int a = 20, b = 10;
