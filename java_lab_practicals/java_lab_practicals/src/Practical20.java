@@ -1,3 +1,6 @@
+AIM- Write a Java program to demonstrate Queue Interface using PriorityQueue and Deque.
+
+
 import java.util.PriorityQueue;
 import java.util.ArrayDeque;
 import java.util.Deque;
