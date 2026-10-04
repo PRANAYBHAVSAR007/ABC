@@ -1,3 +1,6 @@
+AIM-Write a Java program to perform 
+methods and example on recursion
+
 class Practical5 {
     static int factorial(int n) {
         if (n == 0 || n == 1)
