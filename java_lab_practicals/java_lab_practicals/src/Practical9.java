@@ -1,3 +1,6 @@
+AIM- Write a Java program to check the 
+word is palindrome or not.
+
 import java.util.Scanner;
 
 class Practical9 {
