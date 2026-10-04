@@ -1,3 +1,12 @@
+AIM- Write a Java program using below 
+conditional statements. a) Even or 
+Odd using if.. else statement. b) Roots 
+of Quadratic Equation using else if 
+ladder. c) Largest of three numbers 
+using nested if else. d) Find out the 
+week day using switch statement.
+
+
 import java.util.Scanner;
 
 class Practical3 {
