@@ -1,3 +1,6 @@
+AIM- Write a Java program to demonstrate Abstraction using Abstract Classes and Interfaces.
+
+
 abstract class Shape {
     abstract void area();
 
