@@ -1,3 +1,6 @@
+AIM- Write a Java program to demonstrate Map Interface using HashMap and LinkedHashMap.
+
+
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 
