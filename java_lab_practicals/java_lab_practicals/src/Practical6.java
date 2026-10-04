@@ -1,3 +1,8 @@
+AIM- Write a Java program to perform 
+operations on one-dimensional and 
+multi-dimensional arrays.
+
+
 class Practical6 {
     public static void main(String args[]) {
         int arr[] = {10, 20, 30, 40, 50};
