@@ -1,3 +1,6 @@
+AIM- Write a Java program to demonstrate List Interface using ArrayList and LinkedList
+
+
 import java.util.ArrayList;
 import java.util.LinkedList;
 
