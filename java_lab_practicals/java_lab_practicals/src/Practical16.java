@@ -1,3 +1,6 @@
+AIM- Write a Java program to demonstrate Exception Handling.
+
+
 class Practical16 {
     public static void main(String args[]) {
         int a = 10;
