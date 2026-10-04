@@ -1,3 +1,8 @@
+AIM- Write a Java program to create a class 
+and object and demonstrate 
+constructors.
+
+
 class Student {
     int id;
     String name;
