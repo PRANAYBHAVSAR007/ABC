@@ -1,3 +1,7 @@
+AIM- Write a Java program to demonstrate 
+encapsulation using access specifiers.
+    
+
 class Student {
     private int id;
     private String name;
