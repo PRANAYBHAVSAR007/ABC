@@ -1,3 +1,8 @@
+AIM- Write a Java program to demonstrate 
+string handling using String, 
+StringBuffer, and StringBuilder
+
+
 class Practical8 {
     public static void main(String args[]) {
         String str = "Java Programming";
