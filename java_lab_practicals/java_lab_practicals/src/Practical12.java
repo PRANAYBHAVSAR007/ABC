@@ -1,3 +1,5 @@
+AIM- Write a Java program to demonstrate Inheritance
+
 interface Sports {
     void play();
 }
