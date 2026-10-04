@@ -1,3 +1,11 @@
+AIM- Write a Java program to demonstrate 
+looping constructs: a) Reverse of a 
+number using while loop. b) Prime 
+number using do while loop. c) nth 
+term of fibonacci sequence using for 
+loop
+
+
 class Practical4 {
     public static void main(String args[]) {
         // Reverse of a number
