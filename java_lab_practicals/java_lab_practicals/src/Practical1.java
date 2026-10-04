@@ -1,3 +1,10 @@
+AIM- Write a Java program to display 
+“Hello World” and demonstrate 
+the Java program structure and 
+demonstrate use of variables
+data types and type casting
+
+
 class Practical1 {
     public static void main(String[] args) {
         // Part 1: Hello World
