@@ -1,3 +1,12 @@
+AIM- Write a Java program to demonstrate 
+1D - Arrays & 2-D Arrays. a) 
+Maximum value and Second 
+Maximum value without duplicates. b) 
+Sort the names in Ascending Order. c) 
+Addition of two matrix. d) 3x3 Matrix 
+Multiplication
+
+
 import java.util.Arrays;
 
 class Practical7 {
